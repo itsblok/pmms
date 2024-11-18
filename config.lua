@@ -719,11 +719,11 @@ Config.dui.urls = {}
 -- 		Fork https://github.com/kibook/pmms-dui on GitHub. You will
 -- 		then have a page at https://<your username>.github.io/pmms-dui.
 --
--- 	b. Using your own web server:
+-- 	b. Using your own web server: (Recommended for ad-free listening)
 -- 		Clone https://github.com/kibook/pmms-dui and install on your
 -- 		web server.
 --
-Config.dui.urls.https = "https://kibook.github.io/pmms-dui"
+Config.dui.urls.https = "https://itsblok.github.io/pmms-dui/"
 
 -- The URL of the DUI page used for HTTP links. If left unset, the internal DUI page is used.
 --Config.dui.urls.http = ""
